@@ -1,6 +1,6 @@
 - Hi, I’m Nat Fernelius
 - I’m interested in artificial intelligence, electronic music, python programming, and econometrics
-- I’m a current Economic/Plan II undergraduate at the University of Texas at Austin
+- I’m a current Economics/Plan II undergraduate at the University of Texas at Austin
 - I’m looking to collaborate on exciting machine learning projects.
 - How to reach me: fernelius@utexas.edu
 
