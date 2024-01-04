@@ -1,7 +1,7 @@
 - Hello! I’m Nat Fernelius.
-- I’m interested in artificial intelligence, electronic music, python development, and econometrics.
-- Incoming Tax Technology and Tranformation Staff at Ernst and Young
-- I have experience with Python (pandas, keras, numpy, scikit-learn, matplotlib), R, Tensorflow, Fortran, C++, Stata, and Machine Learning/AI.
+- I’m interested in artificial intelligence, python/.NET development, LLMs, and econometrics.
+- Tax Technology and Tranformation Staff at Ernst and Young
+- I have experience with Python, C#, Tensorflow, Pytorch, Fortran, and Semantic Kernel Application Development.
 - I’m looking to collaborate on cutting-edge machine learning projects and meet other professionals in the field.
 - Feel free to reach out at my email: nataliafernelius@gmail.com
 
