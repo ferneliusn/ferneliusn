@@ -1,4 +1,4 @@
-I'm Nat Fernelius. I like graphs and nix. I also like optimizing everything.
+I'm Nat. I like graphs and nix. I also like optimizing everything.
 
 <!---
 ferneliusn/ferneliusn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
